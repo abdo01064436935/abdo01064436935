@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👋 Hi, I'm Abdelrhman
+Frontend Developer | React.js
 
-<!--
-**abdo01064436935/abdo01064436935** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I build responsive and modern web applications  
+🚀 Passionate about clean code and UI/UX  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- HTML5
+- CSS3 / Tailwind / Bootstrap / Material UI
+- JavaScript (ES6+) / TypeScript
+- React.js
+- Git & GitHub / Devops
+
+---
+
+### 📌 Featured Projects
+- 🔗 [E-commerce App]([https://github.com/USERNAME/ecommerce-app](https://abdo01064436935.github.io/Ecommerce/))
+- 🔗 [Portfolio Website]([https://github.com/USERNAME/portfolio](https://abdo01064436935.github.io/Portfolio/))
+- 🔗 [CRUD Website]((https://abdo01064436935.github.io/CRUD/))
+- 🔗 [CRUDS Website]((https://abdo01064436935.github.io/CRUDS/))
+- 🔗 [Bakery Website](https://abdo01064436935.github.io/Bakery/)
+- 🔗 [DevFolio Website](https://abdo01064436935.github.io/DevFolio/)
+- 🔗 [Bookmarker Website](https://abdo01064436935.github.io/Bookmarker/)
+- 🔗 [Wearth Website](https://abdo01064436935.github.io/Wearth/)
+- 🔗 [Mealify Website](https://abdo01064436935.github.io/Mealify/)
+
+---
+
+### 🌍 Connect with me
+- LinkedIn: https://www.linkedin.com/in/abdelrhman-eltantawy-709674307
+- Portfolio: https://abdo01064436935.github.io/Portfolio/
