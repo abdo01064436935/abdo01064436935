@@ -16,10 +16,10 @@ Frontend Developer | React.js
 ---
 
 ### 📌 Featured Projects
-- 🔗 [E-commerce App]((https://abdo01064436935.github.io/Ecommerce/))
-- 🔗 [Portfolio Website]((https://abdo01064436935.github.io/Portfolio/))
-- 🔗 [CRUD Website]((https://abdo01064436935.github.io/CRUD/))
-- 🔗 [CRUDS Website]((https://abdo01064436935.github.io/CRUDS/))
+- 🔗 [E-commerce App](https://abdo01064436935.github.io/Ecommerce/)
+- 🔗 [Portfolio Website](https://abdo01064436935.github.io/Portfolio/)
+- 🔗 [CRUD Website](https://abdo01064436935.github.io/CRUD/)
+- 🔗 [CRUDS Website](https://abdo01064436935.github.io/CRUDS/)
 - 🔗 [Bakery Website](https://abdo01064436935.github.io/Bakery/)
 - 🔗 [DevFolio Website](https://abdo01064436935.github.io/DevFolio/)
 - 🔗 [Bookmarker Website](https://abdo01064436935.github.io/Bookmarker/)
