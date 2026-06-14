@@ -1,5 +1,5 @@
 ## Hi, I'm Abdelrhman
-Frontend Developer | React.js
+Frontend Developer | React.js & آNext.js
 
 - I build responsive and modern web applications  
 - Passionate about clean code and UI/UX  
